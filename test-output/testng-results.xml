@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-21T22:00:34Z" name="Suite" finished-at="2021-10-21T22:00:47Z" duration-ms="13296">
+    <groups>
+    </groups>
+    <test started-at="2021-10-21T22:00:34Z" name="Test" finished-at="2021-10-21T22:00:47Z" duration-ms="13296">
+      <class name="testCases.ExecuteTestZalenium">
+        <test-method signature="test()[pri:0, instance:testCases.ExecuteTestZalenium@1acaf3d]" started-at="2021-10-22T00:00:34Z" name="test" finished-at="2021-10-22T00:00:46Z" duration-ms="12230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testCases.ExecuteTestZalenium -->
+      <class name="testCases.ExecuteTestZaliniumChrome">
+        <test-method signature="test()[pri:0, instance:testCases.ExecuteTestZaliniumChrome@42a15bdc]" started-at="2021-10-22T00:00:34Z" name="test" finished-at="2021-10-22T00:00:47Z" duration-ms="13265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testCases.ExecuteTestZaliniumChrome -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
